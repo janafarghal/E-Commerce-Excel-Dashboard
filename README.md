@@ -73,7 +73,7 @@ The dashboard layout was designed for clarity, interactivity, and ease of use. T
 
 1. Visit the repository on GitHub.
 2. Click on the file: **`E-Commerce_Data_Dashboard.xlsx`**.
-3. On the file preview page, click the **Download** button in the top-right corner.
+3. Click the **Download** button in the top-right corner.
 4. Open the downloaded Excel file to explore the fully interactive, protected dashboard.
 
 > ℹ️ **Note:** The sheet is protected to maintain layout integrity, but slicers and filters remain fully functional.
